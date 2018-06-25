@@ -43,11 +43,11 @@
 <www.naver.com>
 ---------------------------
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-++underline++
-~~cancelline~~
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
+++underline++  
+~~cancelline~~  
 
 ----------------------------
